@@ -7,3 +7,7 @@ Green - puts you in a random part of the playing field.
 Blue - doubles your score.
 
 Control is carried out with the help of the buttons "←", "→", "↑", "↓".
+
+Additional Information:
+Programming language: Python 3.4
+List of used libraries: random, pygame, time, math.
